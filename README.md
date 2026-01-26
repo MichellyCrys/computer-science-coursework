@@ -6,7 +6,7 @@ Este repositório contém os códigos e projetos desenvolvidos durante as discip
 
 ## 🏛️ Disciplinas e Projetos
 
-### 🔹 Algoritmos e Estruturas de Dados II (./AED2)
+### 🔹 [Algoritmos e Estruturas de Dados II](./AED2)
 **Linguagem:** C
 Esta disciplina foca no estudo aprofundado de algoritmos complexos e estruturas de dados eficientes para resolução de problemas computacionais.
 
@@ -18,7 +18,7 @@ Esta disciplina foca no estudo aprofundado de algoritmos complexos e estruturas 
 
 ---
 
-### 🔹 Técnicas Avançadas de Programação (./TAP)
+### 🔹 [Técnicas Avançadas de Programação](./TAP)
 **Linguagem:** Java
 Disciplina voltada para o aprofundamento da Programação Orientada a Objetos (POO) e padrões de desenvolvimento.
 
