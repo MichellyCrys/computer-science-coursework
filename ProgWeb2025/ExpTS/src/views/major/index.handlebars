@@ -1,0 +1,44 @@
+<h2>Listagem de Cursos</h2>
+<h4><a href="/majors/create"><i class="bi bi-plus-square-fill"></i></a></h4>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome do Curso</th>
+      <th class="text-end">Opções</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each majors}}
+        <tr>
+        <th>{{code}}</th>
+        <td>{{name}}</td>
+        <td class="text-end">
+          <a href="/majors/read/{{id}}"><i class="bi bi-eye"></i></a>
+          <a href="/majors/update/{{id}}"><i class="bi bi-pencil"></i></i></a>
+          <a href="/majors/remove/{{id}}"><i class="bi bi-trash"></i></i></a>
+        </td>
+        </tr>
+    {{/each}}
+  </tbody>
+</table>
+
+<div class="modal fade" id="deleteMajorModal" tabindex="-1" aria-labelledby="deleteMajorModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="deleteMajorModalLabel">Confirmar Exclusão</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Tem certeza que deseja excluir o curso "<strong id="majorNameToDelete"></strong>"?
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+        <button type="button" class="btn btn-danger" id="confirmDeleteMajorBtn">Excluir</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/js/majorDelete.js"></script>

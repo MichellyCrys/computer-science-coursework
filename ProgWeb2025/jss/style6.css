@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #fdfde5;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .ponto {
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    border-radius: 50%;
+    position: absolute;
+  }
+  
