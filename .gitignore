@@ -1,0 +1,19 @@
+# Configurações de editores
+.vscode/
+.idea/
+
+# Binários e executáveis
+*.exe
+*.out
+*.o
+output/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Pastas de distribuição e build
+dist/
+.dist/
+build/
+bin/
