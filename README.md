@@ -18,6 +18,19 @@ Esta disciplina foca no estudo aprofundado de algoritmos complexos e estruturas 
 
 ---
 
+### 🔹 Programação para a Web
+**Linguagens/Tecnologias:** HTML5, CSS3, JavaScript, TypeScript e Node.js.
+
+Esta disciplina abrange o desenvolvimento completo de aplicações web, desde a criação de interfaces interativas no lado do cliente até a estruturação de servidores robustos seguindo o padrão MVC.
+
+* **O que foi estudado:**
+    * Manipulação dinâmica do DOM com JavaScript.
+    * Desenvolvimento de jogos 2D para navegadores.
+    * Arquitetura de servidores com Express e TypeScript.
+    * Persistência de dados com Prisma ORM e modelagem relacional.
+
+---
+
 ### 🔹 [Técnicas Avançadas de Programação](./TAP)
 **Linguagem:** Java
 Disciplina voltada para o aprofundamento da Programação Orientada a Objetos (POO) e padrões de desenvolvimento.
@@ -32,9 +45,10 @@ Disciplina voltada para o aprofundamento da Programação Orientada a Objetos (P
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** C, Java.
-* **Ambientes:** Linux (Ubuntu/WSL).
+* **Linguagens:** C, Java, HTML5, CSS3, JavaScript, TypeScript.
+* **Frameworks/Ferramentas:** Node.js, Express, Prisma ORM, Handlebars, SASS.
+* **Ambientes:** Linux (Ubuntu/WSL) e Windows (PowerShell).
 * **Controle de Versão:** Git e GitHub.
 
 ---
-Desenvolvido por **Michelly Crystiane** 🚀
+Desenvolvido por **Michelly Crystiane** 
