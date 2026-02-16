@@ -6,7 +6,7 @@ Compilado de projetos desenvolvidos durante a graduação em **Ciência da Compu
 * **UFAM (IComp):** Pela infraestrutura e excelência no ensino.
 * **Professores das Disciplinas:**
     * **Programação Web:** David Fernandes, pelo desafio do Space Shooter e arquitetura Express.
-    * **AED2 & TAP:** Aos professores: César Melo e Horácio Fernandes que consolidaram minha base em C e Java.
+    * **AED2 & TAP:** Aos professores: Ruiter Braga, Edleno Silva, César Melo e Horácio Fernandes que consolidaram minha base em C e Java.
 
 ## 🤝 Colaboradores
 * Aos colegas de turma com quem compartilhei madrugadas de debug e café.
